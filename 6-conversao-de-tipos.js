@@ -9,7 +9,7 @@ const numeroString = ("456");
 //=== leva em consideração o tipo de dado
 console.log(numero === numeroString);
 
-//== não leva em consideração o tipo de dado (apenas valor)
+//== não leva em consideração o tipo de dado (apenas o valor)
 console.log(numero == numeroString);
 
 //concatenação

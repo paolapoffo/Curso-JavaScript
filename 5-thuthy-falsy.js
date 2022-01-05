@@ -14,7 +14,7 @@ console.log("" == false);
 console.log(1 == true);
 
 //undefined 
-//null - vazio
+//null - Vazio
 
 let minhaVar;
 let varNull = null;

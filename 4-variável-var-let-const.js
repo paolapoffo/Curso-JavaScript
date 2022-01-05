@@ -1,4 +1,4 @@
-//var
+//var - Escopo global
 
 // var altura = 5;
 // var comprimento = 7;
@@ -7,6 +7,7 @@
 // area = (altura * comprimento);
 // console.log(area);
 
+//let - Escopo especifíco
 
 // let forma = ("Retângulo"); 
 // let altura = 5;
@@ -21,6 +22,7 @@
 
 // console.log(area);
 
+//const - não altera
 
 const forma = ("triângulo");
 const altura = 5;
